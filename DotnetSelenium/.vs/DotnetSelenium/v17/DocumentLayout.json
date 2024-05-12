@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quantox\\source\\repos\\DotnetSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4731B86-6C4F-46BA-860D-A6E7B67E742C}|DotnetSelenium\\DotnetSelenium.csproj|c:\\users\\quantox\\source\\repos\\dotnetselenium\\dotnetselenium\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4731B86-6C4F-46BA-860D-A6E7B67E742C}|DotnetSelenium\\DotnetSelenium.csproj|solutionrelative:dotnetselenium\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Quantox\\source\\repos\\DotnetSelenium\\DotnetSelenium\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DotnetSelenium\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Quantox\\source\\repos\\DotnetSelenium\\DotnetSelenium\\UnitTest1.cs",
+              "RelativeToolTip": "DotnetSelenium\\UnitTest1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:59:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
